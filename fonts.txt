@@ -1,0 +1,5 @@
+| Font      | Usage                               | Weight        |
+| --------- | ----------------------------------- | ------------- |
+| Open Sans | Body, navigation, headings, buttons | 400, 500, 600 |
+| Kenzo     | Stylized section headings (`h2`)    | 400           |
+| Bitter    | Prominent serif text (`p`)          | 700           |

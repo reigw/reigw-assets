@@ -1,0 +1,28 @@
+:root {
+  /* Navigation bar, header, and darkest UI areas. */
+  --background-dark: #100e0c;
+
+  /* Main page background: near-black, slightly warm. */
+  --background:      #1d1916;
+
+  /* Cards, panels, and widgets: dark weathered bronze. */
+  --surface:         #302923;
+
+  /* Borders and dividers: subdued metallic brown. */
+  --border:          #625448;
+
+  /* Secondary text: weathered, brushed silver. */
+  --text-muted:      #a19c98;
+
+  /* Default body text: warm, pale silver. */
+  --text:            #ded6ca;
+
+  /* High-emphasis text: polished ivory-white metal. */
+  --text-bright:     #fbf9f4;
+
+  /* Primary interactive color: glowing ember red-orange. */
+  --accent:          #e65328;
+
+  /* Secondary accent: warm metallic gold. */
+  --accent-gold:     #d7ae76;
+}
